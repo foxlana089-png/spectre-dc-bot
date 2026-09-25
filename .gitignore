@@ -1,0 +1,16 @@
+# Secrets – niemals committen
+bot_config.json
+*secret*
+*.token
+
+# Runtime / lokale Daten
+__pycache__/
+*.pyc
+backups/
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
